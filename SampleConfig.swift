@@ -16,10 +16,10 @@ struct Config {
     static let appleAppID = "937987469"
     
     /// The ID for the reddit client, registered at reddit.com.
-    static let redditClientID = "YOUR REDDIT CLIENT ID"
+    static let redditClientID = "whosthatgirl1098"
     
     /// The client ID to communicate with the imgur API.
-    static let imgurClientID = "YOUR IMGUR CLIENT ID"
+    static let imgurClientID = "Mklstephens87"
     
     // MARK: - Optionally editable parameters
     
